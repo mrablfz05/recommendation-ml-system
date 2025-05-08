@@ -3,3 +3,4 @@ df.pkl
 similarity.pkl
 .cache
 .ipynb_checkpoints
+.env
